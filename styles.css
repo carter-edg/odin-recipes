@@ -1,0 +1,42 @@
+html {
+    background-color: purple;
+    color: white;    
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    background-color: darkorchid;
+    padding: 10px 10px;
+    border: 8px solid white;
+}
+
+ul,ol{
+    background-color: darkorchid;
+    border: 8px solid white;
+    padding: 30px 30px;
+}
+
+li{
+    background-color: gray;
+
+    padding: 10px 10px;
+    margin: 10px 0px;
+}
+
+a {
+    font-weight: bold;
+}
+
+img {
+    width: auto;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 0;
+    background-color: darkorchid; 
+    padding: 30px;
+}
+.attribution {
+    background-color: darkorchid;
+    padding: 10px;
+    margin-top: 0px;
+}
