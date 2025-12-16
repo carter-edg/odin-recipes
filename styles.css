@@ -2,6 +2,7 @@ html {
     background-color: purple;
     color: white;    
     font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
 }
 
 h1 {
@@ -39,4 +40,22 @@ img {
     background-color: darkorchid;
     padding: 10px;
     margin-top: 0px;
+    border-right: 8px solid white;
+    border-bottom: 8px solid white;
+    border-left: 8px solid white;
+}
+
+.image-holder {
+    background-color: darkorchid;
+    border-top: 8px solid white;
+    border-right: 8px solid white;
+    border-left: 8px solid white;
+    margin-bottom: 0px;
+}
+
+.card {
+    background-color: darkorchid;
+    padding: 10px;
+    border: 8px solid white;
+    margin: 20px 0px;
 }
